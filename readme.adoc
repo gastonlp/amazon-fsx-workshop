@@ -9,10 +9,7 @@ This is a set of workshops designed for architects and engineers who would like 
 
 Click the link below to access the workshop.
 
-[cols="1,1"]
-|===
 a|image::fsx-windows-od-workshop.png[link=../windows-file-server/01-deploy-od-environment/]
-|===
 
 === Participation
 
