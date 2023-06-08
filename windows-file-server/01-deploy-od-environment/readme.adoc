@@ -37,12 +37,12 @@ File system creation is currently not supported in the following Availability Zo
 +
 When selecting availability zones in the CloudFormation create stack wizard, take care not to select an availability zone mapped to one of the Availability Zone IDs listed above.
 +
-TIP: *_Context-click (right-click)_* the *Deploy to AWS* button and open the link in a new tab or window to make it easy to navigate between this github tutorial and the AWS Console.
+TIP: *_Context-click (right-click)_* the *Deploy to AWS* button and save the CloudFormation template to a file in your computer. Use it to deploy to the infrastructure using CloudFormation.
 +
 |===
 |Region | Launch template with a new VPC
 | *N. Virginia* (us-east-1)
-a| image::deploy-to-aws.png[link=https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=fsx-windows-workshop&templateURL=https://raw.githubusercontent.com/gastonlp/amazon-fsx-workshop/master/windows-file-server/templates/fsx-windows-od-workshop.yaml]
+a| image::deploy-to-aws.png[link=https://raw.githubusercontent.com/gastonlp/amazon-fsx-workshop/master/windows-file-server/templates/fsx-windows-od-workshop.yaml]
 |===
 +
 . Accept the defaults on the *Prerequisite - Prepare template* page and *_click_* *Next*.
@@ -55,7 +55,7 @@ a| image::deploy-to-aws.png[link=https://console.aws.amazon.com/cloudformation/h
 a| Select a CIDR that will be used for the VPC.
 
 | *Availability Zones*
-a| Select two (2) availability zones for your VPC.
+a| Select two (2) availability zones for your VPC. Select any AZ, except the one that maps to *use1-az3*.
 
 |===
 +
