@@ -9,9 +9,9 @@ This is a set of workshops designed for architects and engineers who would like 
 
 Click the link below to access the workshop labs.
 
-link:https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/60-s3/s3[Lab 1 - Amazon S3 Hands-On Lab]
-link:https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/60-s3/efs[Lab 2- Amazon Elastic File System]
-link=/windows-file-server/01-deploy-od-environment[Lab 3 - FSx Workshop]
+- link:https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/60-s3/s3[Lab 1 - Amazon S3 Hands-On Lab]
+- link:https://catalog.us-east-1.prod.workshops.aws/workshops/f3a3e2bd-e1d5-49de-b8e6-dac361842e76/en-US/basic-modules/60-s3/efs[Lab 2- Amazon Elastic File System]
+- link:/windows-file-server/01-deploy-od-environment[Lab 3 - FSx Workshop]
 
 === Participation
 
